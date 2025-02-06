@@ -1,0 +1,21 @@
+/*all the identifiers are valid but less common, the most common between css coders is the "kebab-case"*/
+
+/* bad */
+.USERNAME {
+}
+
+/* bad */
+.UserName {
+}
+
+/* good - the "kebab-case" */
+.user-name {
+}
+
+/* bad - but mostly used by JavaScript users */
+.userName {
+}
+
+/* bad - hard to be read*/
+.usernameprofile {
+}
