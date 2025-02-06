@@ -1,0 +1,40 @@
+html{
+  font-size:20px;
+}
+
+div{
+  margin:20px auto;
+  border:5px solid #ff5722;
+  padding:20px;
+}
+div p{
+  background-color: #ddd;
+  border:inherit;
+  padding:inherit;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.one{
+font-family: "Open Sans", sans-serif;
+font-weight: 300;
+font-style: italic;
+}
+.two{
+  font-family: 'cairo',sans-serif;
+  font-weight: 700;
+}
+.three{
+  font-family:'jomhuria', cursive;
+  font-weight: 400;
+}
+.four{
+  font-size:2.5rem;
+}
+.five{
+  font-size: 2rem;;
+}
+.six{
+  font-size: 1.5rem;
+}
